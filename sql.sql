@@ -1,0 +1,1 @@
+SELECT * FROM song WHERE MATCH (songname) AGAINST ('zack knight x jasmin walia   bom diggy official music video legttqfmjww' IN BOOLEAN MODE)
